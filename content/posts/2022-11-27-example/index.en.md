@@ -11,7 +11,14 @@ tags:
   - StatEd
 ---
 
-#Header 1
+# Header 1
 
-This is an example of a post from my website. Hope you enjoy it.!
+This is an example of a post from my website. Hope you enjoy it.! `Get better`
 
+:joy:
+
+==Important words==
+
+```r
+print(1+1)
+```
