@@ -1,14 +1,14 @@
 ---
-title: Example
+title: How Students Learn Statistics
 author: Pablo Vivas
 date: '2022-11-27'
 slug: example
 categories:
   - Post
 tags:
-  - Stat
-  - Educ
-  - StatEd
+  - Statisitcs Education
+  - Paper
+  - Joan Garfield
 ---
 
 # Header 1
